@@ -24,14 +24,21 @@
 
 ## 技术栈
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,dart,kotlin,html,bash,git&theme=dark" alt="Java, Spring, Python, Go, Dart, Kotlin, HTML, Bash, Git" />
+</p>
+
+<p align="center">
+  <code>Java</code>
+  <code>Spring</code>
+  <code>Python</code>
+  <code>Go</code>
+  <code>Dart</code>
+  <code>Kotlin</code>
+  <code>HTML</code>
+  <code>Shell</code>
+  <code>Git</code>
+</p>
 
 ## 精选项目
 
