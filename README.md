@@ -1,77 +1,61 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:16A34A&height=180&section=header&text=zyf-github100&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
-# zyf-github100
+  <p>
+    <strong>Java 后端 / 自动化工具 / Web 与移动端项目</strong>
+  </p>
 
-**Java 后端 · Python 自动化 · Web 工具 · 移动端练习**
-
-[全部仓库](https://github.com/zyf-github100?tab=repositories) · [联系邮箱](mailto:230850479@qq.com)
-
+  <p>
+    <a href="https://github.com/zyf-github100?tab=repositories">
+      <img src="https://img.shields.io/badge/Public%20Repos-16-2563EB?style=flat-square" alt="public repos" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-16A34A?style=flat-square" alt="focus" />
+    <img src="https://komarev.com/ghpvc/?username=zyf-github100&style=flat-square&color=2563EB" alt="profile views" />
+  </p>
 </div>
 
----
+## 关于我
 
-## 个人定位
+我主要关注 Java 后端、自动化工具和实用型项目开发。相比单纯堆功能，我更在意把零散需求整理成稳定、可维护、能长期使用的小系统。
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>主要方向</h3>
-      <ul>
-        <li>Java 后端、业务系统与微服务</li>
-        <li>Python 脚本、自动化和数据处理</li>
-        <li>实用型 Web 页面和部署整理</li>
-        <li>Flutter / Kotlin 移动端项目练习</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>当前关注</h3>
-      <ul>
-        <li>整理老乞丐提醒系统相关项目</li>
-        <li>打磨手写 RPC 与后端简历项目</li>
-        <li>把零散需求做成稳定可维护的小系统</li>
-        <li>持续补齐项目文档、部署和展示体验</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 正在整理和维护老乞丐提醒系统相关项目
+- 关注后端业务系统、微服务、RPC、数据处理和脚本自动化
+- 也在练习 Flutter / Kotlin 移动端项目和轻量 Web 页面
 
 ## 技术栈
 
-<p>
-  <code>Java</code>
-  <code>Spring</code>
-  <code>Python</code>
-  <code>Go</code>
-  <code>Dart</code>
-  <code>Kotlin</code>
-  <code>HTML</code>
-  <code>Shell</code>
-  <code>Git</code>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 精选项目
 
 | 项目 | 技术方向 | 简介 |
 | --- | --- | --- |
-| [**smart-exam-cloud**](https://github.com/zyf-github100/smart-exam-cloud) | `Java` `微服务` | 智慧云考微服务平台，偏后端业务系统方向 |
-| [**fan-rpc**](https://github.com/zyf-github100/fan-rpc) | `Java` `RPC` | 手写 RPC 框架，适合作为简历项目继续打磨 |
-| [**bili-downloader-from-scratch**](https://github.com/zyf-github100/bili-downloader-from-scratch) | `Python` `自动化` | 根据账号情况下载哔哩哔哩视频 |
-| [**oldbeggar-public**](https://github.com/zyf-github100/oldbeggar-public) | `Go` `部署` | 老乞丐推送项目的公开整理版本 |
-| [**oldbeggar-subscribe**](https://github.com/zyf-github100/oldbeggar-subscribe) | `HTML` `Web` | Old Beggar WxPusher 订阅页面 |
-| [**dadeng-ip**](https://github.com/zyf-github100/dadeng-ip) | `HTML` `数据展示` | 大刀灯 IP 知识产权数据库 |
-| [**course_schedule_app**](https://github.com/zyf-github100/course_schedule_app) | `Dart` `移动端` | 课程表移动端项目 |
-| [**pomodoro-study-tracker**](https://github.com/zyf-github100/pomodoro-study-tracker) | `Kotlin` `移动端` | 番茄钟学习记录项目 |
+| [smart-exam-cloud](https://github.com/zyf-github100/smart-exam-cloud) | Java / 微服务 | 智慧云考微服务平台 |
+| [fan-rpc](https://github.com/zyf-github100/fan-rpc) | Java / RPC | 手写 RPC 框架，适合作为简历项目继续打磨 |
+| [bili-downloader-from-scratch](https://github.com/zyf-github100/bili-downloader-from-scratch) | Python / 自动化 | 根据账号情况下载哔哩哔哩视频 |
+| [oldbeggar-public](https://github.com/zyf-github100/oldbeggar-public) | Go / 部署 | 老乞丐推送项目的公开整理版本 |
+| [oldbeggar-subscribe](https://github.com/zyf-github100/oldbeggar-subscribe) | HTML / Web | Old Beggar WxPusher 订阅页面 |
+| [dadeng-ip](https://github.com/zyf-github100/dadeng-ip) | HTML / 数据展示 | 大刀灯 IP 知识产权数据库 |
+| [course_schedule_app](https://github.com/zyf-github100/course_schedule_app) | Dart / 移动端 | 课程表移动端项目 |
+| [pomodoro-study-tracker](https://github.com/zyf-github100/pomodoro-study-tracker) | Kotlin / 移动端 | 番茄钟学习记录项目 |
 
 ## 仓库概览
 
-<table>
-  <tr>
-    <td align="center"><strong>公开仓库</strong><br />16</td>
-    <td align="center"><strong>主要语言</strong><br />Java / Python / Go</td>
-    <td align="center"><strong>项目类型</strong><br />后端 / 自动化 / Web / 移动端</td>
-  </tr>
-</table>
+- 公开仓库: 16
+- 主要方向: Java 后端、Python 自动化、Web 页面、移动端练习
+- 代表项目: 微服务考试平台、手写 RPC、B 站下载工具、老乞丐提醒系统
 
 ## 联系我
 
 - 邮箱: [230850479@qq.com](mailto:230850479@qq.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:2563EB&height=100&section=footer" alt="footer" />
+</div>
