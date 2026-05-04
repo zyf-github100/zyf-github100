@@ -75,7 +75,7 @@
 
 ## 联系我
 
-- GitHub: [@zyf-github100](https://github.com/zyf-github100)
+- 邮箱: [230850479@qq.com](mailto:230850479@qq.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:2563EB&height=100&section=footer" alt="footer" />
