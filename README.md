@@ -35,43 +35,22 @@
 
 ## 精选项目
 
-<p>
-  <a href="https://github.com/zyf-github100/smart-exam-cloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyf-github100&repo=smart-exam-cloud&theme=transparent&hide_border=true" alt="smart-exam-cloud" />
-  </a>
-  <a href="https://github.com/zyf-github100/fan-rpc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyf-github100&repo=fan-rpc&theme=transparent&hide_border=true" alt="fan-rpc" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/zyf-github100/bili-downloader-from-scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyf-github100&repo=bili-downloader-from-scratch&theme=transparent&hide_border=true" alt="bili-downloader-from-scratch" />
-  </a>
-  <a href="https://github.com/zyf-github100/oldbeggar-subscribe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyf-github100&repo=oldbeggar-subscribe&theme=transparent&hide_border=true" alt="oldbeggar-subscribe" />
-  </a>
-</p>
-
-## 项目索引
-
-| 项目 | 类型 | 简介 |
+| 项目 | 技术方向 | 简介 |
 | --- | --- | --- |
 | [smart-exam-cloud](https://github.com/zyf-github100/smart-exam-cloud) | Java / 微服务 | 智慧云考微服务平台 |
 | [fan-rpc](https://github.com/zyf-github100/fan-rpc) | Java / RPC | 手写 RPC 框架，适合作为简历项目继续打磨 |
-| [bili-downloader-from-scratch](https://github.com/zyf-github100/bili-downloader-from-scratch) | Python | 根据账号情况下载哔哩哔哩视频 |
+| [bili-downloader-from-scratch](https://github.com/zyf-github100/bili-downloader-from-scratch) | Python / 自动化 | 根据账号情况下载哔哩哔哩视频 |
 | [oldbeggar-public](https://github.com/zyf-github100/oldbeggar-public) | Go / 部署 | 老乞丐推送项目的公开整理版本 |
-| [oldbeggar-subscribe](https://github.com/zyf-github100/oldbeggar-subscribe) | HTML | Old Beggar WxPusher 订阅页面 |
+| [oldbeggar-subscribe](https://github.com/zyf-github100/oldbeggar-subscribe) | HTML / Web | Old Beggar WxPusher 订阅页面 |
 | [dadeng-ip](https://github.com/zyf-github100/dadeng-ip) | HTML / 数据展示 | 大刀灯 IP 知识产权数据库 |
-| [course_schedule_app](https://github.com/zyf-github100/course_schedule_app) | Dart | 课程表移动端项目 |
-| [pomodoro-study-tracker](https://github.com/zyf-github100/pomodoro-study-tracker) | Kotlin | 番茄钟学习记录项目 |
+| [course_schedule_app](https://github.com/zyf-github100/course_schedule_app) | Dart / 移动端 | 课程表移动端项目 |
+| [pomodoro-study-tracker](https://github.com/zyf-github100/pomodoro-study-tracker) | Kotlin / 移动端 | 番茄钟学习记录项目 |
 
-## GitHub 数据
+## 仓库概览
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zyf-github100&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyf-github100&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+- 公开仓库: 16
+- 主要方向: Java 后端、Python 自动化、Web 页面、移动端练习
+- 代表项目: 微服务考试平台、手写 RPC、B 站下载工具、老乞丐提醒系统
 
 ## 联系我
 
